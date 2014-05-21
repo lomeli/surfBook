@@ -4,6 +4,7 @@
     * [tuts used](tuts.md)
     * [tuts next](tuts next)
     * [Analytics](/analytics.md)
+    * [drawer](/drawer.md)
 * all together
     * [already done](already done)
     * [flow](/flow.md)
@@ -11,4 +12,6 @@
     * [gigs](gigs)
 * [Play](play/README)
     * [Description + keywords](play/description_+_keywords.md)
+* [next](next/README)
+    * [next v](next/next_v.md)
 
