@@ -15,7 +15,7 @@ textTitle top
 
 no wifi, show last loadtime
 
-get values for icon share
+get api values for share
 
 continue loading not
 
